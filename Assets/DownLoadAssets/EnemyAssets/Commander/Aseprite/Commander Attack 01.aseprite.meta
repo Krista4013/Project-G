@@ -1,0 +1,447 @@
+fileFormatVersion: 2
+guid: 7f3da4267dddbf940958c0bfc3e0fd91
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Commander Attack 01_Frame_0
+    originalName: 
+    pivot: {x: 0.24999999, y: -0.90909094}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 66
+      y: 86
+      width: 40
+      height: 33
+    spriteID: 4c418872593a04746af92575792cf58b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 66, y: 86}
+  - name: Commander Attack 01_Frame_1
+    originalName: 
+    pivot: {x: 0.31707314, y: -0.90909094}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 162
+      width: 41
+      height: 33
+    spriteID: ddf94f617f3c586448d3a046d9681305
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 162}
+  - name: Commander Attack 01_Frame_2
+    originalName: 
+    pivot: {x: 0.35000002, y: -0.90909094}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 66
+      y: 127
+      width: 40
+      height: 33
+    spriteID: 1bad2546df9bbfe4c92efbc6a988cfea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 66, y: 127}
+  - name: Commander Attack 01_Frame_3
+    originalName: 
+    pivot: {x: 0.18518516, y: -0.9677419}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 54
+      height: 31
+    spriteID: d14784cdf25796049a47168278c63a97
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Commander Attack 01_Frame_4
+    originalName: 
+    pivot: {x: 0.16666667, y: -0.9677419}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 43
+      width: 54
+      height: 31
+    spriteID: ab3913f8def083441b733b1aa2e4a632
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 43}
+  - name: Commander Attack 01_Frame_5
+    originalName: 
+    pivot: {x: 0.041666687, y: -0.9677419}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 123
+      width: 48
+      height: 31
+    spriteID: 12402821f2404e340b9e23b57d45a5c3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 123}
+  - name: Commander Attack 01_Frame_6
+    originalName: 
+    pivot: {x: 0, y: -0.90909094}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 82
+      width: 46
+      height: 33
+    spriteID: c90597189abd48748b1bc65e84dbec75
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 82}
+  - name: Commander Attack 01_Frame_7
+    originalName: 
+    pivot: {x: 0, y: -0.7317073}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 66
+      y: 168
+      width: 31
+      height: 41
+    spriteID: 02d90016babb3624ea2bdd7e85adf186
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 66, y: 168}
+  - name: Commander Attack 01_Frame_8
+    originalName: 
+    pivot: {x: 0, y: -0.90909094}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 203
+      width: 41
+      height: 33
+    spriteID: 38c5f80483eba9c449902881f0c11b82
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 203}
+  - name: Commander Attack 01_Frame_9
+    originalName: 
+    pivot: {x: 0, y: -0.90909094}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 66
+      y: 4
+      width: 41
+      height: 33
+    spriteID: 6ebc40ae991c36e47ada82cb6cf9bdba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 66, y: 4}
+  - name: Commander Attack 01_Frame_10
+    originalName: 
+    pivot: {x: 0, y: -0.90909094}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 66
+      y: 45
+      width: 41
+      height: 33
+    spriteID: 62f681ad99367024cb53ccdc34f16539
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 66, y: 45}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1195742271
+    name: Commander Attack 01
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Commander Attack 01_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 38
+        y: 30
+        width: 40
+        height: 33
+      spriteId: 4c418872593a04746af92575792cf58b
+    - name: Commander Attack 01_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 35
+        y: 30
+        width: 41
+        height: 33
+      spriteId: ddf94f617f3c586448d3a046d9681305
+    - name: Commander Attack 01_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 34
+        y: 30
+        width: 40
+        height: 33
+      spriteId: 1bad2546df9bbfe4c92efbc6a988cfea
+    - name: Commander Attack 01_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 38
+        y: 30
+        width: 54
+        height: 31
+      spriteId: d14784cdf25796049a47168278c63a97
+    - name: Commander Attack 01_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 39
+        y: 30
+        width: 54
+        height: 31
+      spriteId: ab3913f8def083441b733b1aa2e4a632
+    - name: Commander Attack 01_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 46
+        y: 30
+        width: 48
+        height: 31
+      spriteId: 12402821f2404e340b9e23b57d45a5c3
+    - name: Commander Attack 01_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 48
+        y: 30
+        width: 46
+        height: 33
+      spriteId: c90597189abd48748b1bc65e84dbec75
+    - name: Commander Attack 01_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 48
+        y: 30
+        width: 31
+        height: 41
+      spriteId: 02d90016babb3624ea2bdd7e85adf186
+    - name: Commander Attack 01_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 48
+        y: 30
+        width: 41
+        height: 33
+      spriteId: 38c5f80483eba9c449902881f0c11b82
+    - name: Commander Attack 01_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 48
+        y: 30
+        width: 41
+        height: 33
+      spriteId: 6ebc40ae991c36e47ada82cb6cf9bdba
+    - name: Commander Attack 01_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 48
+        y: 30
+        width: 41
+        height: 33
+      spriteId: 62f681ad99367024cb53ccdc34f16539
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 96, y: 96}

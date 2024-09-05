@@ -1,0 +1,419 @@
+fileFormatVersion: 2
+guid: de43035c9fc3d14418184c7feef55163
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Turtle King Jump_Frame_0
+    originalName: 
+    pivot: {x: 0.45945948, y: -1.1891892}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 37
+      height: 37
+    spriteID: d25f4b917a417f143bf9af35df1c1347
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Turtle King Jump_Frame_1
+    originalName: 
+    pivot: {x: 0.68, y: -1.1891892}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 49
+      y: 4
+      width: 25
+      height: 37
+    spriteID: 169a4c2a70988544c92d48cea7026ab9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 49, y: 4}
+  - name: Turtle King Jump_Frame_2
+    originalName: 
+    pivot: {x: 0.68, y: -0.95652175}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 49
+      width: 25
+      height: 46
+    spriteID: e2dfd67dc12bffa45bbe8e6996173cb8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 49}
+  - name: Turtle King Jump_Frame_3
+    originalName: 
+    pivot: {x: 0.68, y: -1.5135136}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 49
+      y: 49
+      width: 25
+      height: 37
+    spriteID: f6ce42b21cf858841b4d4da59f6cb298
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 49, y: 49}
+  - name: Turtle King Jump_Frame_4
+    originalName: 
+    pivot: {x: 0.68, y: -1.6756757}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 49
+      y: 94
+      width: 25
+      height: 37
+    spriteID: 0836269d2c2c97247b304403b7fedfde
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 49, y: 94}
+  - name: Turtle King Jump_Frame_5
+    originalName: 
+    pivot: {x: 0.68, y: -1.3333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 103
+      width: 25
+      height: 42
+    spriteID: 037842373a1a31a47b08bbe96d8354a2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 103}
+  - name: Turtle King Jump_Frame_6
+    originalName: 
+    pivot: {x: 0.68, y: -1.1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 153
+      width: 25
+      height: 40
+    spriteID: 9f6c1692913db9a4082e9860b039435c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 153}
+  - name: Turtle King Jump_Frame_7
+    originalName: 
+    pivot: {x: 0.68, y: -1.1794872}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 201
+      width: 25
+      height: 39
+    spriteID: d74d8f701d3b3f340ad56a985ddf8d65
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 201}
+  - name: Turtle King Jump_Frame_8
+    originalName: 
+    pivot: {x: 0.68, y: -1.1891892}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 49
+      y: 139
+      width: 25
+      height: 37
+    spriteID: 2bc5b214f1ba81242af0f68bcf76afb7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 49, y: 139}
+  - name: Turtle King Jump_Frame_9
+    originalName: 
+    pivot: {x: 0.68, y: -1.1891892}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 49
+      y: 184
+      width: 25
+      height: 37
+    spriteID: f5618f7baf84d534492773ec60a888cc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 49, y: 184}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 853632207
+    name: Turtle King Jump
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Turtle King Jump_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 47
+        y: 44
+        width: 37
+        height: 37
+      spriteId: d25f4b917a417f143bf9af35df1c1347
+    - name: Turtle King Jump_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 47
+        y: 44
+        width: 25
+        height: 37
+      spriteId: 169a4c2a70988544c92d48cea7026ab9
+    - name: Turtle King Jump_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 47
+        y: 44
+        width: 25
+        height: 46
+      spriteId: e2dfd67dc12bffa45bbe8e6996173cb8
+    - name: Turtle King Jump_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 47
+        y: 56
+        width: 25
+        height: 37
+      spriteId: f6ce42b21cf858841b4d4da59f6cb298
+    - name: Turtle King Jump_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 47
+        y: 62
+        width: 25
+        height: 37
+      spriteId: 0836269d2c2c97247b304403b7fedfde
+    - name: Turtle King Jump_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 47
+        y: 56
+        width: 25
+        height: 42
+      spriteId: 037842373a1a31a47b08bbe96d8354a2
+    - name: Turtle King Jump_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 47
+        y: 44
+        width: 25
+        height: 40
+      spriteId: 9f6c1692913db9a4082e9860b039435c
+    - name: Turtle King Jump_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 47
+        y: 46
+        width: 25
+        height: 39
+      spriteId: d74d8f701d3b3f340ad56a985ddf8d65
+    - name: Turtle King Jump_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 47
+        y: 44
+        width: 25
+        height: 37
+      spriteId: 2bc5b214f1ba81242af0f68bcf76afb7
+    - name: Turtle King Jump_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 47
+        y: 44
+        width: 25
+        height: 37
+      spriteId: f5618f7baf84d534492773ec60a888cc
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 128, y: 128}
